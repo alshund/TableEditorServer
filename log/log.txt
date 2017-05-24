@@ -1,0 +1,209 @@
+24/05/2017 8:42 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 8:42 [Thread-2] ERROR - <socket closed>
+24/05/2017 8:42 [Thread-3] ERROR - <server.Server ready for use>
+24/05/2017 8:42 [Thread-3] ERROR - <socket closed>
+24/05/2017 8:42 [Thread-4] ERROR - <server.Server ready for use>
+24/05/2017 8:42 [Thread-4] ERROR - <socket closed>
+24/05/2017 8:46 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 8:46 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 8:46 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 8:46 [Thread-3] ERROR - </127.0.0.1 add new student>
+24/05/2017 9:02 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:02 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 9:02 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:02 [Thread-3] ERROR - </127.0.0.1 create new table>
+24/05/2017 9:02 [Thread-3] ERROR - </127.0.0.1 add new student>
+24/05/2017 9:02 [Thread-3] ERROR - </127.0.0.1 delete student('s)>
+24/05/2017 9:03 [Thread-3] ERROR - </127.0.0.1 open table>
+24/05/2017 9:03 [Thread-3] ERROR - <socket closed>
+24/05/2017 9:03 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 9:03 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:06 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:06 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 9:06 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:06 [Thread-3] ERROR - </127.0.0.1 open table>
+24/05/2017 9:07 [Thread-2] ERROR - <socket closed>
+24/05/2017 9:07 [Thread-3] ERROR - <Socket closed>
+24/05/2017 9:13 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:14 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 9:14 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:14 [Thread-3] ERROR - </127.0.0.1 open table>
+24/05/2017 9:14 [Thread-3] ERROR - <socket closed>
+24/05/2017 9:14 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 9:14 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:15 [Thread-4] ERROR - <Connection reset>
+24/05/2017 9:16 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 9:16 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:16 [Thread-5] ERROR - </127.0.0.1 open table>
+24/05/2017 9:16 [Thread-2] ERROR - <socket closed>
+24/05/2017 9:17 [Thread-6] ERROR - <server.Server ready for use>
+24/05/2017 9:18 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:18 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 9:18 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:18 [Thread-3] ERROR - </127.0.0.1 open table>
+24/05/2017 9:18 [Thread-2] ERROR - <socket closed>
+24/05/2017 9:18 [Thread-3] ERROR - <Socket closed>
+24/05/2017 9:23 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:23 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 9:23 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:23 [Thread-3] ERROR - </127.0.0.1 open table>
+24/05/2017 9:23 [Thread-3] ERROR - <socket closed>
+24/05/2017 9:24 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 9:24 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:24 [Thread-4] ERROR - </127.0.0.1 open table>
+24/05/2017 9:24 [Thread-4] ERROR - <socket closed>
+24/05/2017 9:26 [Thread-2] ERROR - <socket closed>
+24/05/2017 9:26 [Thread-5] ERROR - <server.Server ready for use>
+24/05/2017 9:26 [Thread-5] ERROR - </127.0.0.1 connected>
+24/05/2017 9:26 [Thread-5] ERROR - <server.Server ready for use>
+24/05/2017 9:26 [Thread-6] ERROR - </127.0.0.1 open table>
+24/05/2017 9:26 [Thread-6] ERROR - <socket closed>
+24/05/2017 9:26 [Thread-5] ERROR - </127.0.0.1 connected>
+24/05/2017 9:26 [Thread-5] ERROR - <server.Server ready for use>
+24/05/2017 9:26 [Thread-7] ERROR - </127.0.0.1 open table>
+24/05/2017 9:26 [Thread-7] ERROR - <Socket closed>
+24/05/2017 9:29 [Thread-8] ERROR - <server.Server ready for use>
+24/05/2017 9:29 [Thread-8] ERROR - </127.0.0.1 connected>
+24/05/2017 9:29 [Thread-8] ERROR - <server.Server ready for use>
+24/05/2017 9:29 [Thread-9] ERROR - </127.0.0.1 open table>
+24/05/2017 9:29 [Thread-9] ERROR - <Socket closed>
+24/05/2017 9:30 [Thread-10] ERROR - <server.Server ready for use>
+24/05/2017 9:30 [Thread-10] ERROR - <socket closed>
+24/05/2017 9:30 [Thread-11] ERROR - <server.Server ready for use>
+24/05/2017 9:30 [Thread-11] ERROR - <socket closed>
+24/05/2017 9:31 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:31 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 9:31 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:31 [Thread-3] ERROR - </127.0.0.1 open table>
+24/05/2017 9:32 [Thread-3] ERROR - </127.0.0.1 open table>
+24/05/2017 9:32 [Thread-2] ERROR - <socket closed>
+24/05/2017 9:32 [Thread-3] ERROR - <Socket closed>
+24/05/2017 9:35 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:35 [Thread-2] ERROR - <socket closed>
+24/05/2017 9:35 [Thread-3] ERROR - <server.Server ready for use>
+24/05/2017 9:35 [Thread-3] ERROR - <socket closed>
+24/05/2017 9:35 [Thread-4] ERROR - <server.Server ready for use>
+24/05/2017 9:35 [Thread-4] ERROR - <socket closed>
+24/05/2017 9:35 [Thread-5] ERROR - <server.Server ready for use>
+24/05/2017 9:35 [Thread-5] ERROR - </127.0.0.1 connected>
+24/05/2017 9:35 [Thread-5] ERROR - <server.Server ready for use>
+24/05/2017 9:36 [Thread-6] ERROR - </127.0.0.1 open table>
+24/05/2017 9:36 [Thread-5] ERROR - <socket closed>
+24/05/2017 9:36 [Thread-6] ERROR - <Socket closed>
+24/05/2017 9:36 [Thread-7] ERROR - <server.Server ready for use>
+24/05/2017 9:36 [Thread-7] ERROR - </127.0.0.1 connected>
+24/05/2017 9:36 [Thread-7] ERROR - <server.Server ready for use>
+24/05/2017 9:36 [Thread-8] ERROR - </127.0.0.1 create new table>
+24/05/2017 9:36 [Thread-8] ERROR - <socket closed>
+24/05/2017 9:38 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:39 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 9:39 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 9:39 [Thread-3] ERROR - </127.0.0.1 open table>
+24/05/2017 9:39 [Thread-2] ERROR - <socket closed>
+24/05/2017 9:39 [Thread-3] ERROR - <Socket closed>
+24/05/2017 10:15 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 10:16 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 10:16 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 10:16 [Thread-3] ERROR - <Software caused connection abort: socket write error>
+24/05/2017 10:16 [Thread-3] ERROR - <Software caused connection abort: recv failed>
+24/05/2017 10:18 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 10:35 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 10:35 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 10:35 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 10:35 [Thread-3] ERROR - <>
+24/05/2017 10:35 [Thread-3] ERROR - <invalid type code: 6F>
+24/05/2017 10:44 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 10:44 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 10:44 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 10:44 [Thread-3] ERROR - <invalid type code: 6F>
+24/05/2017 10:47 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 10:47 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 10:47 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 10:47 [Thread-3] ERROR - </127.0.0.1 create new table>
+24/05/2017 10:47 [Thread-3] ERROR - </127.0.0.1 open table>
+24/05/2017 10:47 [Thread-3] ERROR - <Connection reset>
+24/05/2017 10:49 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 10:49 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 10:49 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 10:49 [Thread-3] ERROR - </127.0.0.1 open table>
+24/05/2017 11:18 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 11:19 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 11:19 [Thread-2] ERROR - <socket closed>
+24/05/2017 11:19 [Thread-3] ERROR - <server.Server ready for use>
+24/05/2017 11:19 [Thread-3] ERROR - <socket closed>
+24/05/2017 11:19 [Thread-4] ERROR - <server.Server ready for use>
+24/05/2017 11:19 [Thread-4] ERROR - <socket closed>
+24/05/2017 11:19 [Thread-5] ERROR - <server.Server ready for use>
+24/05/2017 11:19 [Thread-5] ERROR - <socket closed>
+24/05/2017 11:19 [Thread-6] ERROR - <server.Server ready for use>
+24/05/2017 11:19 [Thread-7] ERROR - <Address already in use: JVM_Bind>
+24/05/2017 11:19 [Thread-8] ERROR - <Address already in use: JVM_Bind>
+24/05/2017 11:19 [Thread-9] ERROR - <Address already in use: JVM_Bind>
+24/05/2017 11:19 [Thread-6] ERROR - <socket closed>
+24/05/2017 11:21 [Thread-3] ERROR - <server.Server ready for use>
+24/05/2017 11:21 [Thread-3] ERROR - </127.0.0.1 connected>
+24/05/2017 11:21 [Thread-3] ERROR - <server.Server ready for use>
+24/05/2017 11:21 [Thread-4] ERROR - </127.0.0.1 create new table>
+24/05/2017 11:21 [Thread-4] ERROR - </127.0.0.1 open table>
+24/05/2017 11:21 [Thread-4] ERROR - </127.0.0.1 create new table>
+24/05/2017 11:21 [Thread-4] ERROR - </127.0.0.1 add new student>
+24/05/2017 11:21 [Thread-4] ERROR - </127.0.0.1 add new student>
+24/05/2017 11:21 [Thread-4] ERROR - </127.0.0.1 add new student>
+24/05/2017 11:21 [Thread-4] ERROR - </127.0.0.1 save table>
+24/05/2017 11:22 [Thread-4] ERROR - <socket closed>
+24/05/2017 11:23 [Thread-5] ERROR - <server.Server ready for use>
+24/05/2017 11:23 [Thread-5] ERROR - </127.0.0.1 connected>
+24/05/2017 11:23 [Thread-5] ERROR - <server.Server ready for use>
+24/05/2017 11:23 [Thread-6] ERROR - </127.0.0.1 add new student>
+24/05/2017 11:24 [Thread-6] ERROR - </127.0.0.1 open table>
+24/05/2017 11:24 [Thread-6] ERROR - </127.0.0.1 delete student('s)>
+24/05/2017 11:24 [Thread-6] ERROR - <socket closed>
+24/05/2017 11:26 [Thread-5] ERROR - </127.0.0.1 connected>
+24/05/2017 11:26 [Thread-5] ERROR - <server.Server ready for use>
+24/05/2017 11:31 [Thread-7] ERROR - <Connection reset>
+24/05/2017 11:31 [Thread-5] ERROR - </127.0.0.1 connected>
+24/05/2017 11:31 [Thread-5] ERROR - <server.Server ready for use>
+24/05/2017 11:31 [Thread-8] ERROR - </127.0.0.1 create new table>
+24/05/2017 11:31 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 11:32 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 11:32 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 11:32 [Thread-2] ERROR - <socket closed>
+24/05/2017 11:32 [Thread-3] ERROR - <Socket closed>
+24/05/2017 11:36 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 11:36 [Thread-2] ERROR - </127.0.0.1 connected>
+24/05/2017 11:36 [Thread-2] ERROR - <server.Server ready for use>
+24/05/2017 11:36 [Thread-3] ERROR - </127.0.0.1 create new table>
+24/05/2017 11:36 [Thread-2] ERROR - <socket closed>
+24/05/2017 11:36 [Thread-3] ERROR - <Socket closed>
+24/05/2017 11:37 [Thread-4] ERROR - <server.Server ready for use>
+24/05/2017 11:37 [Thread-4] ERROR - </127.0.0.1 connected>
+24/05/2017 11:37 [Thread-4] ERROR - <server.Server ready for use>
+24/05/2017 11:37 [Thread-5] ERROR - </127.0.0.1 add new student>
+24/05/2017 11:37 [Thread-5] ERROR - </127.0.0.1 open table>
+24/05/2017 11:40 [Thread-2] ERROR - <Server ready for use>
+24/05/2017 11:40 [Thread-2] ERROR - <socket closed>
+24/05/2017 11:48 [Thread-2] ERROR - <Server ready for use>
+24/05/2017 11:48 [Thread-3] ERROR - <Server ready for use>
+24/05/2017 11:48 [Thread-3] ERROR - <socket closed>
+24/05/2017 11:49 [Thread-2] ERROR - <Server ready for use>
+24/05/2017 11:49 [Thread-2] ERROR - <socket closed>
+24/05/2017 11:49 [Thread-3] ERROR - <Server ready for use>
+24/05/2017 11:49 [Thread-3] ERROR - <socket closed>
+24/05/2017 11:49 [Thread-4] ERROR - <Server ready for use>
+24/05/2017 11:49 [Thread-5] ERROR - <Address already in use: JVM_Bind>
+24/05/2017 11:49 [Thread-6] ERROR - <Address already in use: JVM_Bind>
+24/05/2017 11:49 [Thread-7] ERROR - <Address already in use: JVM_Bind>
+24/05/2017 11:49 [Thread-8] ERROR - <Address already in use: JVM_Bind>
+24/05/2017 11:49 [Thread-9] ERROR - <Address already in use: JVM_Bind>
+24/05/2017 11:49 [Thread-10] ERROR - <Address already in use: JVM_Bind>
+24/05/2017 11:49 [Thread-11] ERROR - <Address already in use: JVM_Bind>
+24/05/2017 11:49 [Thread-4] ERROR - <socket closed>
+24/05/2017 11:49 [Thread-12] ERROR - <Server ready for use>
+24/05/2017 11:49 [Thread-13] ERROR - <Address already in use: JVM_Bind>
+24/05/2017 11:49 [Thread-12] ERROR - <socket closed>
+24/05/2017 11:49 [Thread-14] ERROR - <Server ready for use>
+24/05/2017 11:49 [Thread-14] ERROR - <socket closed>
+24/05/2017 11:49 [Thread-15] ERROR - <Server ready for use>
+24/05/2017 11:49 [Thread-16] ERROR - <Address already in use: JVM_Bind>
+24/05/2017 11:49 [Thread-17] ERROR - <Address already in use: JVM_Bind>
+24/05/2017 11:49 [Thread-15] ERROR - <socket closed>
